@@ -1,0 +1,19 @@
+p{
+    /*display: inline;
+    padding: 1%;*/
+    width: 31.3%;
+    float: left;
+    margin: 1%;
+}
+body{
+    width: 80%;
+    margin: 0 auto;
+}
+.colum{
+    width: 31.3%;
+    float: left;
+    margin: 1%;
+}
+#prin{
+    overflow: auto;
+}
